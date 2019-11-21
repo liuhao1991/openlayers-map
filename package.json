@@ -1,0 +1,22 @@
+{
+  "name": "openlayers-map",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liuhao1991/openlayers-map.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liuhao1991/openlayers-map/issues"
+  },
+  "homepage": "https://github.com/liuhao1991/openlayers-map#readme",
+  "dependencies": {
+    "ol": "^6.1.1"
+  }
+}
